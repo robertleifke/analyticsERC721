@@ -1,4 +1,5 @@
-# thotheon
+# thotheon data
 
-A research analytics platform that provides real time market and network data on Non-Fungible Tokens (ERC-721) and Compostable Data Tokens (ERC-988).
+A research analytics platform that creates quantitative snapshots of important trading and risk metrics associated with non-fungible ERC-721 tokens on Open Sea. 
 
+Uses real time market and network data from coinmetrics API
